@@ -6,7 +6,11 @@
 
 <div align="center">
   
-![Avee Player PC Banner](Avee_Player_Posh_Deluxe.png)
+<p align="center">
+  <img src="assets/windowsv2.png" width="180" alt="Avee Player Logo">
+</p>
+
+
 # Avee Player for PC
 ### PoshDeluxe Edition / Windows Remastered
 
@@ -97,47 +101,53 @@ and high-resolution video export.
 
 ---
 
-## The Next Chapter
 
-Avee Player has long been associated with music visualization
-on Android. PoshDeluxe Edition is focused on taking the legacy
-Windows experience further.
+## The Return of Avee on Windows
 
-Rather than replacing the original desktop interface with an
-unrelated player, the project builds on the existing Windows
-application and its rendering capabilities.
+Avee Player PoshDeluxe Edition builds on the legacy Windows
+application to push desktop music visualization further.
 
-The objective is straightforward: make desktop-based visualizer
-editing and video production more capable, more accessible,
-and worth using on modern Windows PCs.
+The vision is simple: keep the original Windows experience
+and expand what creators can do with it — from real-time
+visualizer editing to high-resolution video production,
+without relying on an Android emulator.
 
-No traditional Android emulator is required for the intended
-Windows workflow. The original Windows Avee installation is
-currently required.
+### ⚡ What PoshDeluxe Brings
 
-## ✦ The Next Chapter
+**Native Windows Experience**
 
-### Native Windows Experience
-Work directly with the legacy Windows application instead of
-relying on a conventional Android emulator workflow.
+Work directly within the existing Windows application,
+preserving the desktop workflow instead of replacing it
+with an unrelated player.
 
-### GPU-Accelerated Visualization
-Build on the Windows application's existing GPU-accelerated
-rendering pipeline. Actual performance depends on the hardware,
-preset complexity, resolution, and CPU workload.
+**GPU-Accelerated Real-Time Preview**
 
-### High-Resolution Video Export
-Explore higher resolutions, configurable frame rates, and
-higher-bitrate output for demanding visualizer projects.
+Build on the Windows version's existing GPU rendering
+capabilities. Performance depends on your hardware,
+preset complexity, and workload.
 
-### A More Capable Editor
-Editor improvements are in development, including hold-to-drag
-interaction, element tags, themes, interface scaling, and other
-quality-of-life features.
+**High-Resolution Video Export**
 
-### Built for Further Development
-Compatibility fixes, editor improvements, and export refinements
-are being tested through community feedback and experimental builds.
+Explore configurable resolution, frame rates, and
+high-bitrate output for demanding visualizer projects.
+
+**An Evolving Editor**
+
+Hold-to-drag controls, element tags, themes, interface
+scaling, and other editor improvements are in development.
+
+**Community-Driven Compatibility**
+
+Investigate broken effects, missing compositions,
+audio-provider issues, and cross-version template
+compatibility through real-world testing.
+
+---
+
+
+
+
+
 
 ## ◈ Visualizer Showcase
 
