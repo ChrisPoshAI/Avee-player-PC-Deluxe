@@ -66,7 +66,7 @@ and high-resolution video export.
 <tr><th>Component</th><th>Specification</th></tr>
 <tr><td>CPU</td><td>Intel Xeon E5-2630 v4 @ 2.20 GHz</td></tr>
 <tr><td>GPU</td><td>AMD Radeon RX 550 Series</td></tr>
-<tr><td>RAM</td><td>Update with actual capacity</td></tr>
+<tr><td>RAM</td><td>16 GB</td></tr>
 <tr><td>Preview</td><td>Reported smooth on tested projects</td></tr>
 <tr><td>Status</td><td>Developer tested</td></tr>
 </table>
