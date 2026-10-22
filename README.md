@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Avee Player PC Banner](assets/avee-player-pc-banner.png)
+![Avee Player PC Banner](Avee_Player_Posh_Deluxe.png)
 # Avee Player for PC
 ### PoshDeluxe Edition / Windows Remastered
 
